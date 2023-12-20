@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Fixxo/static/css/main.1548a36c.css",
+    "main.js": "/Fixxo/static/js/main.d2f989bd.js",
+    "static/media/showcase-img.png": "/Fixxo/static/media/showcase-img.284ad98c642f9a2fa478.png",
+    "static/media/party-style.png": "/Fixxo/static/media/party-style.e6b18d466812071d23e7.png",
+    "static/media/office-style.png": "/Fixxo/static/media/office-style.98d459cd73f7807a85b8.png",
+    "index.html": "/Fixxo/index.html",
+    "main.1548a36c.css.map": "/Fixxo/static/css/main.1548a36c.css.map",
+    "main.d2f989bd.js.map": "/Fixxo/static/js/main.d2f989bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1548a36c.css",
+    "static/js/main.d2f989bd.js"
+  ]
+}
