@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect} from "react";
 import ProductsGrid from '../ProductsGrid/ProductsGrid'
 import { useProductContext } from "../../../contexts/ProductContext";
 
